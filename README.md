@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @camicure
 - 👀 I’m interested in frontend
-- 🌱 I’m currently learning web developer and JavaScript
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate 
 - 📫 How to reach me camicure@gmail.com
 
